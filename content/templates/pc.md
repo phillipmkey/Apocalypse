@@ -1,5 +1,0 @@
-
-hp: 
-ac: 
-modifier: 
-level: 
