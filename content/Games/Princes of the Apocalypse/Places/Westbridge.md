@@ -13,10 +13,10 @@ class:
 
 ## People
 
-![[People - Westbridge#^8354fc]]
+![[People - Westbridge]]
 
 ## Places
 
-![[Places - Westbridge#^662afb]]
+![[Places - Westbridge]]
 
 
