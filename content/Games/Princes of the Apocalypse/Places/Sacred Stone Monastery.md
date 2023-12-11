@@ -26,4 +26,4 @@ class:
 
 We found several books in a laboratory in the monastery:
 
-![[Books]]
+![[Books - Sacred Stone]]
