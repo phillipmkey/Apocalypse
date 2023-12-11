@@ -5,7 +5,7 @@ location: Red Larch
 world: RxB - Princes of the Apocalypse
 campaign: RxB - Princes of the Apocalypse
 date: 2023-12-06
-description: Religious person at a table in Red Larch Inn
+description: Religious person at a table in [[Red Larch Inn]]
 race: Half Elf
 gender: M
 class:

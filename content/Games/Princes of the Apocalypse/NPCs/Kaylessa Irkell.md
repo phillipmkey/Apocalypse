@@ -5,7 +5,7 @@ location: Red Larch
 world: RxB - Princes of the Apocalypse
 campaign: RxB - Princes of the Apocalypse
 date: 2023-12-06
-description: Sturdy woman who runs Red Larch Inn
+description: Sturdy woman who runs [[Red Larch Inn]]
 race: 
 gender: F
 class:

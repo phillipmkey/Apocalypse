@@ -5,7 +5,7 @@ location: Red Larch
 world: Princes of the Apocalypse
 campaign: NPCs
 date: 2023-12-11
-description: ""
+description: Employee at [[Waelvur Wagon Works]]
 race: 
 gender: M
 class:

@@ -10,3 +10,6 @@
 | [[Games/Princes of the Apocalypse/Items/Praise Ulutiu.md\|Praise Ulutiu]]                                                                         |
 | [[Games/Princes of the Apocalypse/Items/The Reverence of Etugen.md\|The Reverence of Etugen]]                                                     |
 | [[Games/Princes of the Apocalypse/Items/The Void Manifesto.md\|The Void Manifesto]]                                                               |
+
+^7ccd41
+

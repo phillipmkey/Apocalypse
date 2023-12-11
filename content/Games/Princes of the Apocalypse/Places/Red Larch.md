@@ -13,8 +13,8 @@ class:
 
 ## People
 
-![[People - Red Larch]]
+![[People - Red Larch#^ac0c62]]
 
 ## Places
 
-![[Places - Red Larch]]
+![[Places - Red Larch#^64c9d7]]

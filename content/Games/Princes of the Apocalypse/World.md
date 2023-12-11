@@ -24,12 +24,12 @@ type: world
 ## Sessions
 %% #Ignore Put your cursor anywhere on this page, then, from the Command Palette (CMD/CTRL+P), select either QuickAdd: Macro - Add session-player or QuickAdd: Macro - Add session-gm. %%
 
-![[Sessions]]
+![[Sessions#^c54025]]
 
 
 ## Factions
 
-![[Factions]]
+![[Factions#^df0aad]]
 
 
 ## Notes

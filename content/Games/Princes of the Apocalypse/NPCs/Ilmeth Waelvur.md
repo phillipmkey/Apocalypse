@@ -5,7 +5,7 @@ location: Red Larch
 world: RxB - Princes of the Apocalypse
 campaign: RxB - Princes of the Apocalypse
 date: 2023-12-06
-description: Owns Waelvur Wagon Works
+description: Owns [[Waelvur Wagon Works]]
 race: 
 gender: M
 class:
