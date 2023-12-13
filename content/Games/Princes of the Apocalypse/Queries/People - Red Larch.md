@@ -9,6 +9,3 @@
 | [[Games/Princes of the Apocalypse/NPCs/Kaylessa Irkell.md\|Kaylessa Irkell]]         | Sturdy woman who runs [[Red Larch Inn]]          |
 | [[Games/Princes of the Apocalypse/NPCs/Marlandro Gaelkur.md\|Marlandro Gaelkur]]     | Owns [[Gaelkur's]] shop                          |
 | [[Games/Princes of the Apocalypse/NPCs/Stannor Thistlehair.md\|Stannor Thistlehair]] | Employee at [[Waelvur Wagon Works]]              |
-
-^ac0c62
-

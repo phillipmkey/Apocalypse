@@ -4,7 +4,7 @@ faction:
 location: 
 world: Princes of the Apocalypse
 date: 2023-11-30
-description: A group of Earth Cultists who operate out of the Sacred Stone Monastery
+description: A group of Earth Cultists who operate out of the [[Sacred Stone Monastery]]
 race: 
 gender: 
 class:

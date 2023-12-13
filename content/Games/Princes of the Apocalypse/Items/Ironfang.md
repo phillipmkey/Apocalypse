@@ -1,7 +1,7 @@
 ---
 type: magic item
 faction: 
-location: Black Earth Cult
+location: Temple of Black Earth
 world: Princes of the Apocalypse
 date: 2023-11-30
 description: Magic war pick
@@ -11,5 +11,5 @@ class:
 ---
 # [[Ironfang]]
 
-- War pick carried by the leader of the Cult of the Black Earth.
-- Left in the temple by the old dude
+- War pick carried by the leader of the [[Cult of the Black Earth]], [[Marlos Urnrayle]]
+- Left in the [[Temple of Black Earth]] by the old dude

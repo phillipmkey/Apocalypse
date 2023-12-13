@@ -4,7 +4,7 @@ faction:
 location: 
 world: Princes of the Apolcalypse
 date: 2023-11-30
-description: The Monastery where the Black Earth cult hangs out
+description: The Monastery where the [[Cult of the Black Earth]] hangs out
 race: 
 gender: 
 class:
