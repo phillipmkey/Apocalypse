@@ -69,7 +69,7 @@ const config: QuartzConfig = {
           highlight: "rgba(140, 170, 238, 0.15)",
         },
       },
-    },s
+    },
   },
   plugins: {
     transformers: [
