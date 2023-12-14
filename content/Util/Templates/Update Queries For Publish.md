@@ -40,6 +40,14 @@ const fileAndQuery = new Map([
     "Places - Sumber Hills",
     'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"sumber hills")'
   ],
+    [
+    "People - Beliard",
+    'TABLE description as "Description" from "Games/Princes of the Apocalypse/NPCs" WHERE contains(lower(location), "beliard") AND contains(lower(type), "npc")'
+  ],
+  [
+    "Places - Beliard",
+    'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"beliard")'
+  ],
   [
 	"Places - Dessarin Valley",
 	'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"dessarin valley")'

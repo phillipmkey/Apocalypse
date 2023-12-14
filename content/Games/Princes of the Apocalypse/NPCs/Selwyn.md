@@ -15,3 +15,6 @@ class:
 - Farmer who's wife, Maygan, and workers were taken by blue orcs who went east. 
 - He thinks they may have been part of a horde that has been raiding villages and farms in the area.
 - We killed the marauding orcs and rescued Maygan
+
+![[Pasted image 20231214092546.png|300]]
+*The blue orcs*

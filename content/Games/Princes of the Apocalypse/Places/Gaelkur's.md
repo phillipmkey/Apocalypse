@@ -13,3 +13,4 @@ class:
 
 - Shop in [[Red Larch]]
 - Run by [[Marlandro Gaelkur]]
+- We met [[Larmon Greenboot]] here

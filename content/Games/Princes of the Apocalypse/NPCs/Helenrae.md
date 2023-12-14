@@ -1,7 +1,7 @@
 ---
 type: NPC
 faction: 
-location: 
+location: Sacred Stone Monestary
 world: Princes of the Apocalypse
 date: 2023-12-13
 description: ""

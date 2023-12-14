@@ -13,15 +13,15 @@ class:
 
 Located in, surprise!, [[Red Larch]]
 
-Stannor Thislehair:
+[[Stannor Thistlehair]]:
 
 he tells the characters that he’s seen his boss [[Ilmeth Waelvur]] disappear into a hidden tunnel in the back of the work yard. He’s also seen other people sneak in after dark and follow Ilmeth to wherever they go, although everyone else shows up hooded or masked.
 
 [[Ilmeth Waelvur]] - [[Waelvur Wagon Works]] Owner
 
-Neshor Fleurdin: Traveling with Eann and Senya
+[[Neshor Fleurdin]]: Traveling with Eann and Senya
 
-Neshor Fleurdin, proprietor of the Watchful Knight inn, spoke with the delegation leaders and learned they planned to head south on the Dessarin Road. They intended to visit Summit Hall next, returning the body of a knight slain in the North.
+Neshor Fleurdin, proprietor of the [[Watchful Knight inn]], spoke with the delegation leaders and learned they planned to head south on the Dessarin Road. They intended to visit Summit Hall next, returning the body of a knight slain in the North.
 
 Senya, a server at the Watchful Knight, noticed a strange monk who wore a golden mask observing the Mirabarrans closely while they stayed at the Watchful Knight. The monk left a few hours before the delegation set out and hasn’t been seen since.
 
