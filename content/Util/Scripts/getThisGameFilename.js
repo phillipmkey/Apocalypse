@@ -1,13 +1,14 @@
 module.exports = (params) => {
     console.log(params);
     let thisCampaign = params.app.workspace.getActiveFile().parent.path.slice(6);
+    //console.log(`"Parent Path: ${thisCampaign}"`);
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"Games/${thisCampaign}"`)
+        .pages(`"Games/${thisCampaign}/Sessions"`)
         .where(page => {
             if (page.type === 'session') {
-                if (page.campaign === thisCampaign) {
+                //if (page.world === thisCampaign) {
                     return true;
-                }
+                //}
             }
         }).length
 

@@ -5,10 +5,10 @@ function getThisGameNum (tp) {
         .pages(`"Games/${thisCampaign}/Sessions"`)
         .where(page => {
             if (page.type === 'session') {
-                if (page.campaign === thisCampaign) {
+                //if (page.campaign === thisCampaign) {
                     // console.log('sessionNum: ' + page.sessionNum);
                     return true;
-                }
+                //}
             }
         }).length
     // console.log('numOfGames: ' + numOfGames);

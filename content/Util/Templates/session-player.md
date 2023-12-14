@@ -9,7 +9,7 @@ fc-date:
   year: <% tp.user.getThisDate(tp)[0] %>
   month: <% tp.user.getThisDate(tp)[1] %>
   day: <% tp.user.getThisDate(tp)[2] %>
-fc-category: SessionsC:\Users\pkey\OneDrive\Documents\Obsidian\TTRPG Player Notes\Util\Scripts\getThisWorld.js
+fc-category: Sessions
 summary: ""
 tags: 
 art: ""
