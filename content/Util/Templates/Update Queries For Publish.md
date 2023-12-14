@@ -35,6 +35,14 @@ const fileAndQuery = new Map([
   [
     "Places - Westbridge",
     'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"westbridge")'
+  ],
+  [
+    "Places - Sumber Hills",
+    'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"sumber hills")'
+  ],
+  [
+	"Places - Dessarin Valley",
+	'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"dessarin valley")'
   ]
 ]);
 

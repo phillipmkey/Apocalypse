@@ -1,16 +1,16 @@
 ---
 type: place
 faction: 
-location: 
+location: Dessarin Valley
 world: Princes of the Apocalypse
 date: 2023-12-12
-description: Town in the Dressarin Valley
+description: Town in the Dessarin Valley
 race: 
 gender: 
 class:
 ---
 # [[Summit Hall]]
 
-- Located in the Dressarin Valley
+- Located in the [[Dessarin Valley]]
 - Headquarters of the [[Holy Order of Samular]]
 - Near [[Samular Caradoon]]'s tomb

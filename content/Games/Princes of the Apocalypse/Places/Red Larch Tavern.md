@@ -11,6 +11,8 @@ class:
 ---
 # [[Red Larch Tavern]]
 
+Located in, surprise!, [[Red Larch]]
+
 Stannor Thislehair:
 
 he tells the characters that he’s seen his boss [[Ilmeth Waelvur]] disappear into a hidden tunnel in the back of the work yard. He’s also seen other people sneak in after dark and follow Ilmeth to wherever they go, although everyone else shows up hooded or masked.

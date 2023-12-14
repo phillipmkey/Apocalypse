@@ -11,4 +11,4 @@ class:
 ---
 # [[Delver Cave]]
 
-Cave under Red Larch where the [[Believers]] worship? the Delvers (skeletons in the cave) and get answers from the movement of the boulders in one room of the cave
+Cave under [[Red Larch]] where the [[Believers]] worship? the Delvers (skeletons in the cave) and get answers from the movement of the boulders in one room of the cave

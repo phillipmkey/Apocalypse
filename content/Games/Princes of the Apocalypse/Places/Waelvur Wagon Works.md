@@ -11,4 +11,5 @@ class:
 ---
 # [[Waelvur Wagon Works]]
 
-Run by [[Ilmeth Waelvur]]
+- Wagon Works in [[Red Larch]]
+- Run by [[Ilmeth Waelvur]]

@@ -1,7 +1,7 @@
 ---
 type: NPC
 faction: 
-location: 
+location: Amphail
 world: Princes of the Apocalypse
 date: 2023-12-12
 description: Lord of Amphail

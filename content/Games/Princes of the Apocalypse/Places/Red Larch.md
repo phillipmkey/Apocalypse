@@ -1,7 +1,7 @@
 ---
 type: place
 faction: 
-location: 
+location: Dessarin Valley
 world: Princes of the Apocalypse
 date: 2023-12-06
 description: The town where the party started out

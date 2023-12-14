@@ -1,7 +1,7 @@
 ---
 type: place
 faction: 
-location: 
+location: Sumber Hills
 world: Princes of the Apolcalypse
 date: 2023-11-30
 description: The Monastery where the [[Cult of the Black Earth]] hangs out
@@ -11,6 +11,7 @@ class:
 ---
 # [[Sacred Stone Monastery]]
 
+- Monastery in the [[Sumber Hills]]
 - A lich may still live here
 - There's a temple below
 - Legend says it was haunted.

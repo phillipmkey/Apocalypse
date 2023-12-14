@@ -11,3 +11,5 @@ class:
 ---
 # [[Gaelkur's]]
 
+- Shop in [[Red Larch]]
+- Run by [[Marlandro Gaelkur]]
