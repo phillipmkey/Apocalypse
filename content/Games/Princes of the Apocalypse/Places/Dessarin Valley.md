@@ -14,3 +14,5 @@ class:
 ## Places
 
 ![[Places - Dessarin Valley]]
+
+![[Pasted image 20231214095311.png|700]]
