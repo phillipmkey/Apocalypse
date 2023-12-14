@@ -12,4 +12,4 @@ class:
 # [[Wulgreda]]
 
 - Missing Dwarven Prospector
-- We found her in the [[Sacred Stone Monastery]] and let her go
+- ~~We found her in the [[Sacred Stone Monastery]] and let her go~~ ← I was mistaken about that.

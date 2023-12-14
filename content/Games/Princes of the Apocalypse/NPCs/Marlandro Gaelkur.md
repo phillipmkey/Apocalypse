@@ -12,6 +12,5 @@ class:
 ---
 # [[Marlandro Gaelkur]]
 
-Runs [[Gaelkur's]] shop
-
-One of the [[Believers]]
+- Runs [[Gaelkur's]] shop
+- One of the [[Believers]]

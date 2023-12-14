@@ -12,3 +12,4 @@ class:
 # [[Helenrae]]
 
 Leader of the [[Sacred Stone Monastery]]
+Dead.

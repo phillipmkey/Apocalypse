@@ -12,7 +12,6 @@ class:
 ---
 # [[Ilmeth Waelvur]]
 
-Owns [[Waelvur Wagon Works]]
-[[Stannor Thistlehair]], his employee, told us he's seen his boss disappear into a hidden tunnel in the back of the work yard and that his boss is followed by other people who sneak in after dark wearing hoods and/or masks.
-
-One of the [[Believers]]
+- Owns [[Waelvur Wagon Works]]
+- [[Stannor Thistlehair]], his employee, told us he's seen his boss disappear into a hidden tunnel in the back of the work yard and that his boss is followed by other people who sneak in after dark wearing hoods and/or masks.
+- One of the [[Believers]]
