@@ -13,3 +13,4 @@ class: Paladin
 
 ![[Pasted image 20231206234701.png|250]]
 - Played by Jaden
+- Was a prisoner in the [[Sacred Stone Monastery]]

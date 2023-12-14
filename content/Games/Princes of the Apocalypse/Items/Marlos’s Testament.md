@@ -9,7 +9,7 @@ race:
 gender: 
 class:
 ---
-# [[Marlos’s Testament]]
+c# [[Marlos’s Testament]]
 
 In the realm of fantastical horrors, I, [[Marlos Urnrayle]], stand as the malevolent Prophet of Earth, a vile fanatic devoted to the twisted forces of elemental darkness. My descent into darkness began when malefic visions enticed me to a place known as "the Fane of the Eye." Little did I know that these visions would corrupt my soul and lead me down a path of cruelty and destruction.
 
