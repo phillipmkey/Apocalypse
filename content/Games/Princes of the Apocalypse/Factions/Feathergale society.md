@@ -9,8 +9,8 @@ race:
 gender: 
 class:
 ---
-# [[Feathergale society]]
+# [[Feathergale Society]]
 
 - Lead by 
-- Related to the Air cult
+- Public face of the [[Cult of the Howling Hatred]]
 - Doesn't like the [[Cult of the Black Earth]]

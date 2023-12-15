@@ -12,7 +12,7 @@ class:
 # [[Beliard]]
 
 - Town in the northeastern [[Sumber Hills]]
-- A caravan headed south from Beliard to [[Summit Hall]] was attacked by [[Cult of the Black Earth|earth cultists]], who were then attacked by [[Feathergale society|Feathergale Knights]].
+- A caravan headed south from Beliard to [[Summit Hall]] was attacked by [[Cult of the Black Earth|earth cultists]], who were then attacked by [[Feathergale Society|Feathergale Knights]].
 - Most of the captured caravan members were taken by the earth cultists, who gave pirates books belonging to a sage they captured in payment for being ferried across the Dessarin River
 - [[Deseyna Norvael]] was one of the captured caravan members. The Feathergale Knights took her on one of their giant vultures
 

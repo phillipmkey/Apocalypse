@@ -12,4 +12,5 @@ class:
 # [[Marlos Urnrayle]]
 
 - the Malevolent Prophet of Earth
+- Leader of the [[Cult of the Black Earth]]
 - Wielder of [[Ironfang]]

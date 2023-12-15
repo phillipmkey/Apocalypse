@@ -11,3 +11,5 @@ class:
 ---
 # [[Windvane]]
 
+- Spear created by [[Vizeran DeVir]]
+- Carried by the leader of the [[Cult of the Howling Hatred]], [[Aerisi Kalinoth]]

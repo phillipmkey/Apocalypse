@@ -11,5 +11,5 @@ class:
 ---
 # [[Ironfang]]
 
-- War pick carried by the leader of the [[Cult of the Black Earth]], [[Marlos Urnrayle]]
-- Left in the [[Temple of Black Earth]] by the old dude
+- War pick created by [[Vizeran DeVir]]
+- Carried by the leader of the [[Cult of the Black Earth]], [[Marlos Urnrayle]]

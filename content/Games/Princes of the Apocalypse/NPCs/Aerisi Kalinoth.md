@@ -12,5 +12,6 @@ class:
 ---
 # [[Aerisi Kalinoth]]
 
-- Leader of the air cult
+- Leader of the[[Cult of the Howling Hatred]]
+- Carries [[Windvane]]
 - Not a fan of the [[Cult of the Black Earth]]

@@ -13,3 +13,4 @@ class:
 
 - Leader carries [[Drown]]
 - Operates out of [[Riverguard Keep]]
+- Symbol: [[Mark of Water]]
