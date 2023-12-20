@@ -14,4 +14,3 @@ class: Fighter
 ![[Pasted image 20231206234927.png|250]]
 - Played by Matthew
 - Was previously associated with an Orc clan
-
