@@ -11,6 +11,6 @@ class:
 ---
 # [[Feathergale Society]]
 
-- Lead by 
+- Lead by [[Thurl]]
 - Public face of the [[Cult of the Howling Hatred]]
 - Doesn't like the [[Cult of the Black Earth]]
