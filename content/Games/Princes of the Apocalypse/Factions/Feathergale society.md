@@ -3,7 +3,7 @@ type: faction
 faction: 
 location: 
 world: Princes of the Apocalypse
-date: 2023-12-06
+date: 2023-12-20
 description: Group of "Feathergale Knights" that hangs out at [[Feathergale Spire]]
 race: 
 gender: 
