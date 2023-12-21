@@ -12,11 +12,12 @@ class:
 # [[Sacred Stone Monastery]]
 
 - Monastery in the [[Sumber Hills]]
+- Leader of the monks here is [[Helenrae]]
 - A lich may still live here
 - There's a temple below
-- Legend says it was haunted.
-- The monks don’t like people are reclusive.
-- Rumors are they capture people and take them somewhere.
+- Legend says it was haunted
+- The monks don’t like people are reclusive
+- Rumors are they capture people and take them somewhere
 	- We now know they take people and make Warforged out of them to work in the mines
 
 

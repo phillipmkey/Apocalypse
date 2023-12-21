@@ -11,3 +11,4 @@ class:
 ---
 # [[Thurl]]
 
+- Leader of the [[Feathergale Society]] at [[Feathergale Spire]]
