@@ -4,7 +4,7 @@ faction:
 location: Red Larch
 world: Princes of the Apocalypse
 date: 2023-12-06
-description: 
+description: Inn run by [[Kaylessa Irkell]]
 race: 
 gender: 
 class:

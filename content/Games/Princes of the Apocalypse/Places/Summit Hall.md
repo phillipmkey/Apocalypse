@@ -4,7 +4,7 @@ faction:
 location: Dessarin Valley
 world: Princes of the Apocalypse
 date: 2023-12-12
-description: Town in the Dessarin Valley
+description: Town in [[Dessarin Valley]]
 race: 
 gender: 
 class:

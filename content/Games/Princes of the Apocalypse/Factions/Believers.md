@@ -4,7 +4,7 @@ faction:
 location: 
 world: Princes of the Apocalypse
 date: 2023-12-06
-description: People in Red Larch who believe a bunch of rocks control fate
+description: People in [[Red Larch]] who believe a bunch of rocks control fate
 race: 
 gender: 
 class:

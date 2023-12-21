@@ -26,7 +26,7 @@ const fileAndQuery = new Map([
   ],
   [
     "Places - Red Larch",
-    'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location), "red larch")AND contains(lower(type), "place")'
+    'TABLE description as "Description" from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location), "red larch")AND contains(lower(type), "place")'
   ],
   [
     "People - Westbridge",
@@ -34,11 +34,11 @@ const fileAndQuery = new Map([
   ],
   [
     "Places - Westbridge",
-    'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"westbridge")'
+    'TABLE description as "Description" from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"westbridge")'
   ],
   [
     "Places - Sumber Hills",
-    'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"sumber hills")'
+    'TABLE description as "Description" from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"sumber hills")'
   ],
     [
     "People - Beliard",
@@ -46,11 +46,11 @@ const fileAndQuery = new Map([
   ],
   [
     "Places - Beliard",
-    'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"beliard")'
+    'TABLE description as "Description" from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"beliard")'
   ],
   [
 	"Places - Dessarin Valley",
-	'TABLE from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"dessarin valley")'
+	'TABLE description as "Description" from "Games/Princes of the Apocalypse/Places" WHERE contains(lower(location),"dessarin valley")'
   ]
 ]);
 
