@@ -12,4 +12,4 @@ class:
 # [[Neshor Fleurdin]]
 
 - Proprietor of the [[Watchful Knight Inn]] in [[Beliard]]
-- 
+- Spoke with the delegation leaders and learned they planned to head south on the Dessarin Road. They intended to visit [[Summit Hall]] next, returning the body of a knight slain in the North.

@@ -12,4 +12,4 @@ class:
 # [[Tinderstrike]]
 
 - Dagger created by [[Vizeran DeVir]]
-- Carried by the leader of the fire cult
+- Carried by the[[Elizar Dryflagon]]

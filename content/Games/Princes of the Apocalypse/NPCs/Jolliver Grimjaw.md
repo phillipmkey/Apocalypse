@@ -13,4 +13,5 @@ class:
 
 - Runs [[Riverguard Keep]]
 - Wereboar
-- Pretty sure he escaped when we murder-hoboed Riverguard Keep
+- Pretty sure he escaped when we murder-hoboed [[Riverguard Keep]]
+- We found some [[Desk Notes|notes]] in his desk
