@@ -8,5 +8,5 @@
 | [[Games/Princes of the Apocalypse/Items/Khalreshaar Devotional.md\|Khalreshaar Devotional]]                                                       |
 | [[Games/Princes of the Apocalypse/Items/Praise Ulutiu.md\|Praise Ulutiu]]                                                                         |
 | [[Games/Princes of the Apocalypse/Items/The Reverence of Etugen.md\|The Reverence of Etugen]]                                                     |
-| [[Games/Princes of the Apocalypse/Items/The Void Manifesto.md\|The Void Manifesto]]                                                               |
 | [[Games/Princes of the Apocalypse/Items/Masked Utopia Miraj Vizann's Vision of Perfection.md\|Masked Utopia Miraj Vizann's Vision of Perfection]] |
+| [[Games/Princes of the Apocalypse/Items/The Void Manifesto.md\|The Void Manifesto]]                                                               |
