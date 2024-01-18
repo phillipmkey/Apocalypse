@@ -2,8 +2,8 @@
 
 | File                                                                                 | Description                                                      |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [[Games/Princes of the Apocalypse/NPCs/Brother Eardon.md\|Brother Eardon]]           | Religious person at a table in [[Red Larch Inn]]                 |
 | [[Games/Princes of the Apocalypse/NPCs/Bruldenthar.md\|Bruldenthar]]                 |                                                                  |
+| [[Games/Princes of the Apocalypse/NPCs/Brother Eardon.md\|Brother Eardon]]           | Religious person at a table in [[Red Larch Inn]]                 |
 | [[Games/Princes of the Apocalypse/NPCs/Harburk T..md\|Harburk T.]]                   | Constable and Butcher in [[Red Larch]]                           |
 | [[Games/Princes of the Apocalypse/NPCs/Ilmeth Waelvur.md\|Ilmeth Waelvur]]           | Owns [[Waelvur Wagon Works]]                                     |
 | [[Games/Princes of the Apocalypse/NPCs/Iran Thelder.md\|Iran Thelder]]               | Guards the door at the [[Red Larch Inn]]                         |
