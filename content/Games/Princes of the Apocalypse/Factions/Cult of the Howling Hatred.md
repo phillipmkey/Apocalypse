@@ -14,3 +14,4 @@ class:
 - Air Cultists
 - Their "public face" is the [[Feathergale Society]] operating out of [[Feathergale Spire]]
 - Leader: [[Aerisi Kalinoth]]
+- HQ: [[Temple of Howling Hatred]]

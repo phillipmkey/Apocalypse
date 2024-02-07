@@ -8,3 +8,4 @@
 | [[Games/Princes of the Apocalypse/Sessions/004_20240103.md\|004_20240103]] | Started back in [[Red Larch]] after [[Dellmon Ranch]]                      |
 | [[Games/Princes of the Apocalypse/Sessions/005_20240110.md\|005_20240110]] | Entering the Tower of the [[Cult of the Scarlet Moon]]                     |
 | [[Games/Princes of the Apocalypse/Sessions/006_20240118.md\|006_20240118]] | Fought through the tower of the [[Cult of the Scarlet Moon]]               |
+| [[Games/Princes of the Apocalypse/Sessions/007_20240206.md\|007_20240206]] | Entered the [[Temple of Howling Hatred]]                                   |
